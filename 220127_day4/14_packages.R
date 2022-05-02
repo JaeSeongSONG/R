@@ -5,7 +5,7 @@
 install.packages('cowsay')
 library(cowsay)
 
-say('I want go home right now', by = 'cat')
+say('I want go home right now',  by = 'cat')
 say('I want go home right now', by = 'snowman')
 say('I want go home right now', by = 'rabbit')
 say('I want go home right now', by = 'smallcat')
@@ -19,9 +19,9 @@ say('I want go home right now', by = Name)
 
 #####################################################################
 
-# reshape2 packages - ¿·À¸·Î ÄÃ·³ÀÌ ¸¹Àº ÇüÅÂ ( Wide )¸¦ ¼¼·Î·Î ±ä ( Long ) ÇüÅÂ·Î º¯°æÇØÁÖ°í 
+# reshape2 packages - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ã·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ( Wide )ï¿½ï¿½ ï¿½ï¿½ï¿½Î·ï¿½ ï¿½ï¿½ ( Long ) ï¿½ï¿½ï¿½Â·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö°ï¿½ 
 
-                      ¹Ý´ë·Î ¼¼·Î·Î ±ä ÇüÅÂ¸¦ ¿·À¸·Î ³Ð°Ô ¹Ù²ãÁÖ´Â ÆÐÅ°Áö 
+                      ï¿½Ý´ï¿½ï¿½ ï¿½ï¿½ï¿½Î·ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½Â¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ð°ï¿½ ï¿½Ù²ï¿½ï¿½Ö´ï¿½ ï¿½ï¿½Å°ï¿½ï¿½ 
 
 
 install.packages('reshape2')
